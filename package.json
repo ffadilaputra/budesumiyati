@@ -1,16 +1,26 @@
 {
-  "name": "npm-budesumiyati",
-  "version": "1.0.0",
+  "name": "budesumiyati",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+		"quotes",
+		"words",
+		"word",
+		"budesumiyati"
+	],
+  "author": {
+		"name":"Ivan Fadila Putra",
+		"email": "i.fadilaputra@gmail.com"
+	},
+  "license": "MIT",
   "dependencies": {
-    "meow": "^5.0.0",
     "unique-random-array": "^1.0.1"
+  },
+  "devDependencies": {
+    "ava": "1.0.0-beta.8"
   }
 }
