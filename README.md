@@ -1,23 +1,44 @@
-# Budesumiyati
-
 ![Image](./img/hellodita.jpg)
+
+# budesumiyati
 
 Artwork by [Hellodita](https://twitter.com/dittameliaa)
 
-[BudeSumiyati](https://twitter.com/BudeSumiyati) just a Netizen , you can get popular quotes from bude
+> [BudeSumiyati](https://twitter.com/BudeSumiyati) just a netizen , you can get popular quotes from bude
+
+## Features
+- Random quotes
+- Get popular quotes
 
 ## Install
-```
+```js
 npm i budesumiyati
 ```
 
 ## Usage
-```
-const bude = require('budesumiyati)
-bude.random() //Get random quotes from bude
-bude.all //get all quotes from data.json
+```js
+
+// Import
+
+const bude = require('budesumiyati')
+
+//Get random quotes from bude
+
+bude.random()
+
+// Get all guotes
+
+bude.all
 ```
 
-Inspired by [@sinderhous](https://github.com/sindresorhus)
+## Test
+```
+npm test
+```
+
+
+## Related
+
+[@sinderhous](https://github.com/sindresorhus)
 
 
