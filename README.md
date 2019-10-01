@@ -17,7 +17,6 @@ const bude = require('budesumiyati)
 bude.random() //Get random quotes from bude
 bude.all //get all quotes from data.json
 ```
-
 Inspired by [@sinderhous](https://github.com/sindresorhus)
 
 
