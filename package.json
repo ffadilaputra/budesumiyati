@@ -7,17 +7,18 @@
     "test": "ava"
   },
   "keywords": [
-		"quotes",
-		"words",
-		"word",
-		"budesumiyati"
-	],
+    "quotes",
+    "words",
+    "word",
+    "budesumiyati"
+  ],
   "author": {
-		"name":"Ivan Fadila Putra",
-		"email": "i.fadilaputra@gmail.com"
-	},
+    "name": "Ivan Fadila Putra",
+    "email": "i.fadilaputra@gmail.com"
+  },
   "license": "MIT",
   "dependencies": {
+    "install": "^0.13.0",
     "unique-random-array": "^1.0.1"
   },
   "devDependencies": {
